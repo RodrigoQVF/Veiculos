@@ -26,8 +26,8 @@ public class Carro extends Veiculo {
 
     public String toString() {
         return "CARRO\n" +
-               "marca: '" + marca + '|' +
-               "modelo: '" + modelo + '|' +
-               "ano: " + ano;
-    }
+            "marca: " + marca + "|" +
+            "modelo: " + modelo + "|" +
+            "ano: " + ano;
+    }
 }
